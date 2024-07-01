@@ -19,3 +19,8 @@
 - Russian C2
 - English B1 
 - Math basic 
+
+---
+
+## Experience 
+- Assistant in learning centre sinse March 2024
